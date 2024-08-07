@@ -305,7 +305,7 @@
 	}
 	.main-header .info-box{
 		position: absolute;
-		top: 5px;
+		top: 0px;
 		right: 0px;
 	}
 	.main-menu {
