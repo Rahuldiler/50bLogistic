@@ -3923,7 +3923,6 @@ img {
 @media (max-width: 767px) {
   .info-box img {
     display: block;
-    height:80px;
   }
 
   .header-lower .logo-box {
